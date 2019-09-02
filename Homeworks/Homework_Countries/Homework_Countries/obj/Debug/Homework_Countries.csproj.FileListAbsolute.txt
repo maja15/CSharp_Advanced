@@ -1,0 +1,7 @@
+D:\source\repos\C#_Advanced\Homeworks\New folder\Homework_Countries\Homework_Countries\bin\Debug\Homework_Countries.exe.config
+D:\source\repos\C#_Advanced\Homeworks\New folder\Homework_Countries\Homework_Countries\bin\Debug\Homework_Countries.exe
+D:\source\repos\C#_Advanced\Homeworks\New folder\Homework_Countries\Homework_Countries\bin\Debug\Homework_Countries.pdb
+D:\source\repos\C#_Advanced\Homeworks\New folder\Homework_Countries\Homework_Countries\obj\Debug\Homework_Countries.csprojAssemblyReference.cache
+D:\source\repos\C#_Advanced\Homeworks\New folder\Homework_Countries\Homework_Countries\obj\Debug\Homework_Countries.csproj.CoreCompileInputs.cache
+D:\source\repos\C#_Advanced\Homeworks\New folder\Homework_Countries\Homework_Countries\obj\Debug\Homework_Countries.exe
+D:\source\repos\C#_Advanced\Homeworks\New folder\Homework_Countries\Homework_Countries\obj\Debug\Homework_Countries.pdb
